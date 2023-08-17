@@ -4,7 +4,7 @@ Projeto de uma API CRUD introdutória
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
+| :sparkles: Nome        | **API FLASK LIVRARIA**
 | :label: Tecnologias | Python, Flask, MySQL
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
