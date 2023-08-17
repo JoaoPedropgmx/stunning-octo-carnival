@@ -6,8 +6,6 @@ Projeto de uma API CRUD introdutória
 | -------------  | --- |
 | :sparkles: Nome        | **Titulo do meu projeto**
 | :label: Tecnologias | Python, Flask, MySQL
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://imgur.com/a/9QmGnQs#vitrinedev)
