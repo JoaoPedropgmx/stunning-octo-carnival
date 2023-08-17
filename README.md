@@ -1,17 +1,17 @@
-# Nome do meu projeto
+# API Flask
 
-Rápida descrição do objetivo de fazer esse projeto
+Projeto de uma API CRUD introdutória
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
+| :label: Tecnologias | Python, Flask, MySQL
 | :rocket: URL         | https://url-deploy.com.br
 | :fire: Desafio     | https://url-do-desafio.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](https://imgur.com/a/9QmGnQs#vitrinedev)
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+Projeto API CRUD Utilizando o Banco de Dados MySql por meio do xampp
